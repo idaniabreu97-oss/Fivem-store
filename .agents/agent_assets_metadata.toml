@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "iAzaqsYLNixqajeBCBfos"
+uri = "file://fivem-store-export.tar.gz"
+type = "unspecified"
+title = "FiveM Store - Source Code"
